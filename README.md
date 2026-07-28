@@ -17,13 +17,7 @@
 
 ---
 
-## Live Demo, Repository & Documentation
-
-| Resource              | Link          |
-| --------------------- | ------------- |
-| Frontend (Storefront) | *coming soon* |
-| Admin Dashboard       | *coming soon* |
-| Backend API           | *coming soon* |
+## Live Demo :- https://flint-ecommerce.netlify.app/
 
 ### Detailed Engineering Documentation
 
