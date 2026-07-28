@@ -1,5 +1,6 @@
 # Flint — Full-Stack E-Commerce Platform
 
+> It is the advanced version of NEST E-commerce website.
 > A production-inspired full-stack e-commerce platform built with the PERN stack, featuring a hybrid SQL + Gemini recommendation engine, Razorpay-integrated checkout workflows, and a dedicated administrative workspace.
 
 ---
